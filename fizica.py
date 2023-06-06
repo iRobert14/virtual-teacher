@@ -1,4 +1,4 @@
-import os;
+import os
 from dotenv import load_dotenv 
 import openai    #   bilbioteca/modulul  *openai* ,componenta software care oferă funcționalitățile necesare pentru a interacționa cu serviciile OpenAI.
 load_dotenv()
